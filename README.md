@@ -1,2 +1,2 @@
 # MovieMania
-A React Based Movei App
+A React Based Movie App
